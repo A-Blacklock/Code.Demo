@@ -58,8 +58,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BalancedParenthesesEvaluatorTests.cs" />
-    <Compile Include="ParenthesesEqualityComparerTests.cs" />
+    <Compile Include="UnitTests\BalancedParenthesesEvaluatorTests.cs" />
+    <Compile Include="UnitTests\ParenthesesEqualityComparerTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

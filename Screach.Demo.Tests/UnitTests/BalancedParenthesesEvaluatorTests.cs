@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Moq;
 using Xunit;
 
-namespace Screach.Demo.Tests
+namespace Screach.Demo.Tests.UnitTests
 {
     public class BalancedParenthesesEvaluatorTests
     {

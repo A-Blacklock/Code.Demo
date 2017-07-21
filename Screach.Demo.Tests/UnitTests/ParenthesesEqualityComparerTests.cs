@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using Xunit;
 
-namespace Screach.Demo.Tests
+namespace Screach.Demo.Tests.UnitTests
 {
     public class ParenthesesEqualityComparerTests
     {
